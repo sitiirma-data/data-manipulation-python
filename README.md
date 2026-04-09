@@ -22,6 +22,16 @@ Female customers tend to purchase more in most product categories such as Fashio
 Understanding gender-based purchasing behavior can help businesses design targeted marketing strategies and product promotions.
 
 ---
+## 📊 Revenue by Product Line and Gender (Log Scale)
+![Revenue](images/product_line_gender_total.png)
+
+**Insight:**
+Revenue distribution is highly skewed, with certain categories dominating. Log scale is used to better visualize differences across all product lines.
+
+**Business Insight:**
+While some categories generate significantly higher revenue, smaller categories still contribute and should not be overlooked in business strategy.
+
+---
 ## 📈 Key Insights
 - Sales peak occurs during the evening
 - Fashion accessories are the most purchased product category
