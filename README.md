@@ -39,8 +39,8 @@ Female customers contribute more purchases in most categories, while male custom
 Revenue is dominated by Food & Beverages and Fashion Accessories, indicating strong demand in these categories.
 
 ---
-### 4. Payment Method Distribution
-![Payment Chart](your-image-link-here)
+### 3. Payment Method Distribution
+![Payment Chart](images/payment_method_distribution.png)
 
 **Insight:**  
 Cash is the most frequently used payment method, followed by E-wallet and Credit Card.
