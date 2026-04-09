@@ -36,21 +36,21 @@ Female customers contribute more purchases in most categories, while male custom
 ![Revenue Chart](images/product_line_gender_total.png)
 
 **Insight:**  
-Revenue is dominated by Food & Beverages and Fashion Accessories, indicating strong demand in these categories.
+Revenue is primarily driven by Food & Beverages and Fashion Accessories, indicating these categories generate the highest overall sales.
 
 ---
 ### 3. Payment Method Distribution
 ![Payment Chart](images/payment_method_distribution.png)
 
 **Insight:**  
-Cash is the most frequently used payment method, followed by E-wallet and Credit Card.
+E-wallet and Cash are the most frequently used payment methods, with very similar transaction proportions.
 
 ---
 
 ## 🔍 Key Insights
 - Sales peak occurs during the afternoon and evening  
-- Fashion accessories are the most purchased product category  
-- Cash is the most frequently used payment method  
+- Fashion accessories is the most purchased product category  
+- E-wallet and Cash are the most frequently used payment methods  
 - Female customers contribute more to overall sales  
 
 ---
@@ -68,7 +68,7 @@ Cash is the most frequently used payment method, followed by E-wallet and Credit
 
 ## 💼 Final Business Insights
 - Best-selling product category: **Fashion Accessories**  
-- Peak sales time: **Afternoon**  
+- - Peak sales time: **Afternoon and Evening**
 - Most used payment method: **Cash**  
 - Female customers contribute more to overall sales  
 - Branch C shows the best performance  
